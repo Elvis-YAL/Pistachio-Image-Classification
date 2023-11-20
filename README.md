@@ -1,3 +1,10 @@
+# Pistachio Image Classification : Project Overview
+* Developed a pistachio image recognition model to aid in identifying different varieties of pistachios, facilitating sales.  
+* Utilized deep learning techniques to implement a convolutional neural network to build the model.  
+* Employed transfer learning techniques, including VGG16, MobileNet, and EfficientNet, to optimize models, achieving an accuracy rate of 98.8%.
+* Provide detailed explanations of my thought process and how to make adjustments to the model.  
+ 
+ ## Let's get started!
  **Hello everyone, in this notebook, I will be utilizing transfer learning to build our model. I've fine-tuned a model based on data, and throughout the model-building process, I will provide detailed explanations of my thought process and how to make adjustments to the model.**  
  > ### Here's the outline of this notebook  
 1. [Import Library](#item1)
